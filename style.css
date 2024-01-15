@@ -1,0 +1,95 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:indigo;
+}
+#heading{
+    margin:auto;
+    display:block;
+    text-align:center;
+    color:white;
+    text-transform:capitalize;
+    font-weight:500;
+}
+.heading{
+    justify-content:center;
+    text-transform:capitalize;
+    color:white;
+    font-size:10px;
+    text-align: center;
+}
+#questions{
+    margin:auto;
+    display:block;
+    justify-content:center;
+    width:280px;
+    padding:10px;
+}
+h3{
+    text-align:center;
+    text-transform:capitalize;
+    color:white; 
+}
+.subject{
+    justify-content:center;
+    text-transform:capitalize;
+    color:white;
+    font-size:10px;
+    text-align: center;   
+}
+#subject{
+    margin:auto;
+    display:block;
+    justify-content:center;
+    width:280px;
+    padding:10px;
+    color:black;
+}
+.level{
+    justify-content:center;
+    text-transform:capitalize;
+    color:white;
+    font-size:10px;
+    text-align: center;  
+}
+#level{
+    margin:auto;
+    display:block;
+    justify-content:center;
+    width:280px;
+    padding:10px;
+    color:black;
+}
+.time{
+    justify-content:center;
+    text-transform:capitalize;
+    color:white;
+    font-size:10px;
+    text-align: center; 
+}
+#time{
+    margin:auto;
+    display:block;
+    justify-content:center;
+    width:280px;    
+    padding:10px;
+    color:black;
+}  
+.button{
+    margin:auto;
+    display:block;
+    text-align:center;
+    color:white;
+    margin-top:20px;
+    text-transform: capitalize;
+    font-size: 20px;
+    width:200px;
+    background-color:orange;
+    padding:10px;
+}
+.button:hover{
+    background-color:green;
+}
+a{
+    text-decoration:none;
+}
